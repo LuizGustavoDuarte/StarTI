@@ -4,6 +4,8 @@ Projeto criado por estudantes da Fatec Guaratinguetá para avaliação de tecnol
 
 Agradecimentos a Lucas Felipe por aprimorar o planejamento
 
+Notion com lista de features a completar: https://sore-spark-68e.notion.site/StarTI-63a95833e28b4480bf6b77707348842c
+
 ## Contribuidores
 
 - [Barbara Mingatos](https://github.com/babimingatos)
