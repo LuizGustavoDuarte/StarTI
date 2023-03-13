@@ -6,12 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>StarTI</title>
     <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
 </head>
-<body>
+<body class="text-center">
     <h1>Usando o gerador aleatorio de imagens</h1>
     <p>entre na pasta api do projeto e use o npm install</p>
     <p>no terminal dentro da pasta api rode o server usando 'node server.js'</p>
     <p>diversão!</p>
     <img src="http://localhost:3001/image" alt="">
+    <br>
+    <input type="text" placeholder="digite a tecnologia" id="inputech" class="mt-3">
+    <div id="tecnologia"></div>
+    <button id="botao" class="btn btn-primary mt-3">clique</button>
+    <script src="./handleSearch.js"></script>
 </body>
 </html>
